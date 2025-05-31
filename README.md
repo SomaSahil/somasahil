@@ -7,6 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.facebook.com" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg"></a>
+  <a href="https://www.instagram.com" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg"></a>
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg"></a>
+  <a href="https://www.x.com" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/twitter-x.svg"></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
